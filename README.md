@@ -5,4 +5,4 @@
  
  #Build Settings
  
-theme: minima
+ theme: minima
