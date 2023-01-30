@@ -5,6 +5,4 @@
  
  #Build Settings
  
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
