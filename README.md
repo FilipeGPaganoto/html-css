@@ -3,6 +3,3 @@
 
  Estou aprendendo a criar sites com Html e Css, e agora vou aprender a gerenciar meus repositórios!
  
- #Build Settings
- 
- theme: minima
